@@ -5,8 +5,8 @@
 1. Clone the repository and enter it
 
 ```
-git clone https://github.com/Unite-Hacks/unitehacks-register.git
-cd unitehacks-register
+git clone https://github.com/Hack-Bahamas/hackbahamas-register
+cd hackbahamas-register
 ```
 
 2. Install packages & run
